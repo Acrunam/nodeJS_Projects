@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "myfirst.js",
-  "dependencies": {},
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "nodemailer": "^6.2.1"
+  },
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
